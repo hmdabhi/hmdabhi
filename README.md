@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harpalasinh_Dabhi
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Javascrip,React Js.
+- 🌱 I’m currently learning and working ...Javascrip, React Js, React-native.
 - 📫 How to reach me ...dabhiharpalsinh7646@gmail.com
 
 <!---
